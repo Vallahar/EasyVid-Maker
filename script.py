@@ -1,6 +1,6 @@
 import ffmpeg
 
-input_still = ffmpeg.input("sources/image1.jpg")
+input_still = ffmpeg.input("sources/image1.png")
 input_audio = ffmpeg.input("sources/music.mp3")
 
 (
