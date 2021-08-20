@@ -1,4 +1,7 @@
 # Easy Tool for Video Creation
+So, sometimes I just want to have a way of sharing a composition, a song or some audio through existing social media that only supports video content.
+
+This tool tries to asses that and create a `.mp4` file out of an image and an audio file.
 
 ## Links
 
